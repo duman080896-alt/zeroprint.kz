@@ -1,2 +1,0 @@
-# zeroprint.kz
-ZeroPrint.kz
